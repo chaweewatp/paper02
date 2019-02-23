@@ -1,11 +1,12 @@
 # Journal tracking for paper2<br/>
 
-#List of interest journal<br/>
+# List of interest journal<br/>
 
-# Computers & Electrical Engineering  An International Journal Elsevier<br/>
-# Applied Soft Computing : The Official Journal of the World Federation on Soft Computing (WFSC)<br/>
-
-
+## Computers & Electrical Engineering  An International Journal Elsevier<br/>
+## Applied Soft Computing : The Official Journal of the World Federation on Soft Computing (WFSC)<br/>
+## IET Renewable Power Generation (RPG)
+## Welcome to Maejo International Journal of Science and Technology
+## https://journal.esrgroups.org/jes/
 
 # List of rejected journal<br/>
 
