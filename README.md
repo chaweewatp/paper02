@@ -2,12 +2,15 @@
 
 #List of interest journal<br/>
 
+# Computers & Electrical Engineering  An International Journal Elsevier<br/>
+# Applied Soft Computing : The Official Journal of the World Federation on Soft Computing (WFSC)<br/>
+
+
 
 # List of rejected journal<br/>
 
 
 ## International Journal of Forecasting - Decision on Manuscript ID INTFOR_1808379<br/>
-
 
 
 Dear Dr Singh:<br/>
