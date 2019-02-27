@@ -76,3 +76,7 @@ This Editor does not recommend this paper for further review for the following b
 1. The paper does not comply with the minimum readability requirements for a journal publication and for a Review Team to be able to understand the paper's content.<br/>
 2. It is really difficult to understand the paper's contribution and what the authors are actually doing.<br/>
 3. Some of the assumptions made by the authors seem to be simplistic and unacceptable, such as the fact that they consider that prediction errors for PV and wind power output are normally distributed.<br/>
+
+
+# Add note
+We should add gamma distribution function analysis from collected data in each node. The apply this distribution function instead  with normal distribtion.s
