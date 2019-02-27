@@ -59,7 +59,7 @@ Its originality on the AI domain being unclear, the article should better be sub
 
 
 ## Sustainable Energy, Grids and Networks<br/>
-Ref: SEGAN_2019_24<br/>
+Ref: SEGAN_2019_24 <br/>
 Title: Electricity price forecasting on high penetration of renewable energy resources using hybrid ANN and stochastic approach<br/>
 Journal: Sustainable Energy, Grids and Networks<br/>
 Dear Dr. Singh,<br/>
@@ -79,4 +79,7 @@ This Editor does not recommend this paper for further review for the following b
 
 
 # Add note
-We should add gamma distribution function analysis from collected data in each node. The apply this distribution function instead  with normal distribtion.s
+We should add gamma distribution function analysis from collected data in each node. The apply this distribution function instead  with normal distribtion.
+
+In the past VRE value is deterministic; can be view as a singular value <br/>
+Now it can be seen by set of values with its probabilities or occurances.
