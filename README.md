@@ -7,6 +7,7 @@
 ## IET Renewable Power Generation (RPG)
 ## Welcome to Maejo International Journal of Science and Technology
 ## https://journal.esrgroups.org/jes/
+## International Journal of Electrical Engineering & Education
 
 # List of rejected journal<br/>
 
